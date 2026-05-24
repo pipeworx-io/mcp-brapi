@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-brapi",
+  "version": "0.1.0",
+  "description": "brapi.dev MCP — Brazilian stock + crypto + ETF quotes.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "brapi"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-brapi"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
