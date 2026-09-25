@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-brapi",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "brapi.dev MCP — Brazilian stock + crypto + ETF quotes.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-38cae94b4f055a4b7a333abf4280c2d4eaaa717fa140dcd9cf9295f580ccc15d",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-26d2cbe30f6895eb6018e57a6630dc7a29c4c8e5f48e400dbaf8cc2d007f4dea",
+    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
   }
 }
